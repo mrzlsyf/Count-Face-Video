@@ -101,10 +101,11 @@ Contributions are welcome! If you'd like to improve the project:
 
 2️⃣ **Create a new branch** 🌱  
 
-3️⃣ **Make your improvements** ✨  
+3️⃣ **Make your improvements** ✨
 
 4️⃣ **Submit a pull request** 🔄  
 
-*🌟 If you love this project, don't forget to **star ⭐ the repository** and contribute! 🙌*  
---- 
-**💖 *Happy Coding & Keep Innovating!* 💖 ✨**
+*🌟 If you love this project, don't forget to **star ⭐ the repository** and contribute! 🙌* 
+
+---
+**💖 Happy Coding & Keep Innovating! 💖 ✨**
